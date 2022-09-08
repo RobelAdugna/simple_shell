@@ -1,3 +1,2 @@
-# Simple Shell :shell:
-
-A simple UNIX command interpreter written for a shell
+# Simple Shell
+--Author: Aysanew Yonas | May 6 2022
